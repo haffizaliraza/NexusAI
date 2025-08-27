@@ -48,7 +48,7 @@ Rust
 
 Clone the repository:
 
-git clone https://github.com/your-username/nexusai.git
+git clone https://github.com/haffizaliraza/nexusai.git
 cd nexusai
 
 
