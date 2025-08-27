@@ -5,6 +5,9 @@ NexusAI is a real-time, WebSocket-powered chat application built in Rust, design
 
 This platform is ideal for developers, researchers, and enthusiasts who want to experiment with and explore the capabilities of various AI services in one place.
 
+<img width="1220" height="872" alt="image" src="https://github.com/user-attachments/assets/9a26697e-371d-4757-b2ea-745dc00f5f2f" />
+
+
 ✨ Key Features
 
 Multi-Model Integration
